@@ -124,5 +124,3 @@ Saldo atual: R$1300.0
 📅 Projeto criado para fins de aprendizado.
 
 ---
-
-Quer que eu adicione um **banner visual com emojis e cor (estilo markdown decorado)** no topo para deixar o README mais bonito (tipo README de GitHub moderno)?
