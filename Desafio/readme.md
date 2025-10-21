@@ -119,7 +119,7 @@ Saldo atual: R$1300.0
 
 ## 👨‍💻 Autor
 
-**João Pedro Lacerda Sousa**
+**João Pedro Lacerda Sousa**cd
 📧 Email: [jpedro121256@gmail.com](mailto:jpedro121256@gmail.com)
 📅 Projeto criado para fins de aprendizado.
 
